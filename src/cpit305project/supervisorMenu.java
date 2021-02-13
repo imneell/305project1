@@ -38,7 +38,7 @@ public class supervisorMenu extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("Serif", 0, 24)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 102));
-        jLabel2.setText("welcome back \"name\"!");
+        jLabel2.setText("welcome back \"manar\"!");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -47,7 +47,7 @@ public class supervisorMenu extends javax.swing.JFrame {
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(46, 46, 46)
                 .addComponent(jLabel2)
-                .addContainerGap(530, Short.MAX_VALUE))
+                .addContainerGap(522, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
